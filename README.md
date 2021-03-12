@@ -1,3 +1,3 @@
 # neo4j-intro
 
-Intro to neo4j presentation on #sextou 12/03/2021
+Apresentação sobre Neo4j no #sextou 12/03/2021
